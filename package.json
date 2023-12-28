@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://jeevan42.github.io/g1_portfolio",  
+  "homepage": "https://jeevan42.github.io/g1_portfolio",  
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
